@@ -6,4 +6,4 @@
 
 This repository contains a proof of concept of a probabilistic programming language to perform statistical inference.
 
-We will expand this library with several different algorithms.
+The aim of this library is to provide with proof of concepts of several different sampling algorithms.
